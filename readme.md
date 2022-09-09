@@ -1,4 +1,4 @@
-# Tingit der prototype for learning
+# Tinder prototype for learning
 
 
 tinder with minimum functionality
