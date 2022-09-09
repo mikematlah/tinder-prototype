@@ -1,4 +1,4 @@
 # Tinder prototype for learning
 
 
-tinder with minimum functionality for nubies
+tinder with minimum functionality for nubies!
