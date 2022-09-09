@@ -1,4 +1,4 @@
-# Git and Github Course
+# Tingit der prototype for learning
 
 
-Crash course
+tinder with minimum functionality
